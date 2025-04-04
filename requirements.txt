@@ -1,0 +1,30 @@
+# FastAPI and server
+fastapi>=0.104.0
+uvicorn>=0.23.2
+python-multipart>=0.0.6
+pydantic>=2.4.2
+pydantic-settings>=2.0.3
+
+# HTTP clients
+requests>=2.31.0
+httpx>=0.25.0
+
+# HTML parsing
+beautifulsoup4>=4.12.2
+
+# PDF processing
+PyPDF2>=3.0.1
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Logging
+colorama>=0.4.6
+
+# NLP and AI
+openai>=1.1.1
+
+# Optional dependencies
+Sastrawi>=1.0.1  # Indonesian stemming
+torch>=2.1.0  # Required for IndoBERT
+transformers>=4.35.0  # Required for IndoBERT
