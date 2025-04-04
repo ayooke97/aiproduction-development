@@ -33,8 +33,8 @@ The application follows clean architecture principles with the following layers:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bpk-legal-api.git
-cd bpk-legal-api
+git clone https://github.com/ayooke97/aiproduction-development.git
+cd aiproduction-development
 ```
 
 2. Create a virtual environment:
